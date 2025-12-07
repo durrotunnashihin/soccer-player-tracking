@@ -1,6 +1,7 @@
-# Soccer Player Tracking and Team Classification from Broadcast Highlights: A Low-Cost Analytical Pipeline
+# Soccer Player Tracking and Team Classification from Broadcast Highlights: a Lightweight Analytical Pipeline
 
-<img width="1844" height="1034" alt="Player Tracking-Page-2 (4)" src="https://github.com/user-attachments/assets/28172252-38b5-4a2d-a19d-c5bfa5d2ce02" />
+<img width="1842" height="1034" alt="Player Tracking-Page-2 (5)" src="https://github.com/user-attachments/assets/8f8b0952-4aca-48a0-8c0c-ac9ba0199624" />
+
 
 # 📝 Overview
 This project provides a lightweight, low-cost pipeline for soccer player tracking and team classification using only broadcast highlight videos. The system uses YOLOv8 for player detection, ByteTrack for multi-object tracking, and KMeans clustering on HSV jersey colors with a majority-based correction for team classification. Simple preprocessing steps (i.e., frame skipping, field masking, and session segmentation) enable robust performance even under challenging broadcast conditions.
