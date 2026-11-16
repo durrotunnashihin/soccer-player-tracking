@@ -32,10 +32,10 @@ Everything is preconfigured, **so no path editing is required.**
 # 📜 Citation
 If you use this repository, please cite:
 
-1. IEEE Style
+**IEEE Style**
 Nashihin, D., Panduman, Y. Y. F., Al Ardha, M. A., Noordia, A., and Yahya, S., “Soccer Player Tracking and Team Classification from Broadcast Highlights: A Lightweight Analytical Pipeline,” _Passer Journal of Basic and Applied Sciences_, vol. 8, no. 2, pp. 1167–1174, 2026, doi: 10.24271/PSR.2026.579319.2720.
 
-2. APA 7th Edition
+**APA 7th Edition**
 Nashihin, D., Panduman, Y. Y. F., Al Ardha, M. A., Noordia, A., & Yahya, S. (2026). Soccer player tracking and team classification from broadcast highlights: A lightweight analytical pipeline. _Passer Journal of Basic and Applied Sciences_, 8(2), 1167–1174. https://doi.org/10.24271/PSR.2026.579319.2720
 
 # 🤝 Contributions
